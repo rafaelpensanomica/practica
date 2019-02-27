@@ -1,0 +1,18 @@
+{
+  "name": "practica",
+  "version": "1.0.0",
+  "description": "arduino, javascript,jhonny-five",
+  "main": "temperatura.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "arduino",
+    "javascript"
+  ],
+  "author": "Rafael Williams",
+  "license": "ISC",
+  "dependencies": {
+    "johnny-five": "^1.0.0"
+  }
+}
